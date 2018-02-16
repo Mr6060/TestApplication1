@@ -1,2 +1,3 @@
-﻿  Media3Num.cpp
-  TestApplication1.vcxproj -> C:\Users\davol\Source\Repos\TestApplication1\TestApplication1\Debug\TestApplication1.exe
+﻿  Media3N.cpp
+TestApplication1.obj : error LNK2005: _main giÓ definito in Media3N.obj
+C:\Users\davol\Source\Repos\TestApplication1\TestApplication1\Debug\TestApplication1.exe : fatal error LNK1169: rilevato uno o pi¨ simboli definiti pi¨ volte
