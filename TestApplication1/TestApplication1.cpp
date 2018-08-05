@@ -1,4 +1,4 @@
-﻿// TestApplication1.cpp: definisce il punto di ingresso dell'applicazione console.
+// TestApplication1.cpp: definisce il punto di ingresso dell'applicazione console.
 /*
 Author: D36l
 Date: 24/01/18
@@ -18,7 +18,7 @@ Codice sorgente/editor > Preprocessore > Compilatore > codice oggetto > linker >
 //quando sono presenti le <> significa che è una libreria di default
 //quando sono presenti le "" significa che è una libreria customizzata
 
-#include "stdafx.h"
+
 #include <iostream>
 #include <limits>
 #include <string>
