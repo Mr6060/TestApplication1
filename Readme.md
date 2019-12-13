@@ -1,3 +1,3 @@
-A Testing program made for learning purposes
+#Learning C++
 
-Language: C++
+Forked from Davoleo, help him lear C++.
